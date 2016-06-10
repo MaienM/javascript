@@ -86,7 +86,6 @@
     "requirePaddingNewLinesAfterBlocks": true,
     "requireSemicolons": true,
     "requireShorthandArrowFunctions": true,
-    "requireSpacesInsideImportedObjectBraces": true,
     "safeContextKeyword": "_this",
     "validateLineBreaks": "LF",
     "validateQuoteMarks": {
